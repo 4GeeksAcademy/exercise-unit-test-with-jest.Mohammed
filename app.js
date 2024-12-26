@@ -19,3 +19,4 @@ function fromYenToPound(yen) {
 module.exports = { fromEuroToDollar, fromDollarToYen, fromYenToPound };
 
 console.log(fromDollarToYen(10))
+console.log(fromYenToPound(1000))
